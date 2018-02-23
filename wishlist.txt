@@ -1,0 +1,4 @@
+Diagnostics/webpage?
+ * What are you connected to?
+ * Uptime
+~help
