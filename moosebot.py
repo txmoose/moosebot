@@ -140,3 +140,4 @@ async def speak():
     comment = "http://i.imgur.com/J5BjpEG.png"
     await bot.say(comment)
 
+bot.run(os.environ['DISCORD_API_KEY'])
